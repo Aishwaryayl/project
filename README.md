@@ -3,7 +3,7 @@ Target Variable: The severity of vehicle collisions to enhance the safety of peo
 Shape: There are 230660 rows and 21 columns in the dataset.
 
 **Data Preprocessing**:
-Deleted Columns: Dropped  UNIQUE_ID `,`COLLISION_ID,PERSON_ID,VEHICLE_ID.
+Deleted Columns: Dropped  "UNIQUE_ID" ,"COLLISION_ID","PERSON_ID","VEHICLE_ID".
 Encoding: Co-Ordinal Encoder.
 Class Imbalance: Used SMOTE technique.
 
